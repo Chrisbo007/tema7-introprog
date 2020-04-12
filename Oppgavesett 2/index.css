@@ -1,0 +1,14 @@
+#meny {
+    padding: 0.2rem;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: start;
+}
+
+#meny a {
+    text-decoration: none;
+    padding: 0.4rem;
+    color: lightseagreen;
+    border: 1px solid black;
+}
+

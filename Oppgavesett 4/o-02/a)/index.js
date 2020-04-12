@@ -1,0 +1,1 @@
+let venner = ["Thuy", "Hanna", "Johanna", "Morten"];

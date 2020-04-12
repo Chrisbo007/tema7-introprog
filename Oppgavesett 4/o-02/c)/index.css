@@ -1,0 +1,35 @@
+#venneliste {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: start;
+}
+
+#venneliste div {
+    padding: 1rem;
+    border: 1.5px solid lightcoral;
+}
+
+#inpNavn {
+    margin-bottom: 1rem;
+    padding: 0.2rem;
+    border: 0.5px solid lightblue;
+    border-radius: 25px;
+
+}
+
+#inpAlder {
+    margin-bottom: 1rem;
+    padding: 0.2rem;
+    border: 0.5px solid lightblue;
+    border-radius: 15px;
+}
+
+#btn {
+    background-color:lightgreen; 
+    border: none;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 25px;
+
+}

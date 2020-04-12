@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>010</title>
+    <link rel="stylesheet" href="./index.css">
+
+</head>
+
+<body>
+    <h1>Oppgave 10</h1>
+    <h2>
+        Utvid oppgaven fra side 6. Men hvis firkanten kommer utenfor skjermen, skal du gi en melding. 
+        For eksempel kan det skje at du har skrevet inn at x-posisjonen til firkanten skal være 4000. Men bredden på nettleseren din er kanskje 1920 bred. Altså vil du ikke se firkanten. Du kan godt gi melding i konsollen.
+        Tips: Bredden på nettleseren har et navn i JavaScript: innerWidth
+    </h2>
+
+    <input type="number" id="inpX" placeholder="Skriv et tall">
+    <input type="number" id="inpY" placeholder="Skriv et tall">
+    <div id="firkant"></div>
+
+</br>
+</br>
+</br>
+
+    <h1>Oppgave 6b</h1>
+    <h2>Legg til to input-felter av typen range. Dette blir to slidere. Bruk disse til å styre bredden og høyden på firkanten. </h2>
+    <input type="range" id="width" placeholder="Juster bredden">
+    <input type="range" id="height" placeholder="Juster høyden">
+
+</br>
+</br>
+</br>
+    <h1>Oppgave 6c</h1>
+    <h2>Legg inn enda en slider. Denne skal styre avrundingen av firkanten (border-radius)</h2>
+
+    <input type="range" id="border-radius" placeholder="Juster kantene">
+
+    <script src="./index.js"> </script>
+
+</body>
+
+</html>

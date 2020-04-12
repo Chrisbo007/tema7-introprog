@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    display: inline-block;
+    
+}
+
+#headline {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5rem;
+    color: cadetblue;
+}
+
+button {
+    border-radius: 10px;
+    width: 5rem;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+
+#btn1 {
+    background-color: coral;
+}
+#btn2 {
+    background-color: cornflowerblue;
+}
+#btn3 {
+    background-color: sandybrown;
+}

@@ -1,0 +1,25 @@
+div {
+    background-color: lightseagreen;
+    text-align: center;
+    display: inline-block;
+    padding: 6rem;
+}
+#headline {
+    color: whitesmoke;
+    font-size: 2rem;
+} 
+
+#inp1, #inp2 {
+    padding: 0.5rem;
+    border-radius: 35px;
+    width: 10rem;
+}
+
+p {
+    background-color: pink ;
+    width: 15rem;
+    padding: 0.5rem;
+    text-align: center;
+    display: inline-block;
+    border-radius: 35px;
+}

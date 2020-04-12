@@ -1,0 +1,13 @@
+#venneliste {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: start;
+}
+
+#venneliste div {
+    padding: 1rem;
+    border-bottom: 1.5px solid lightcoral;
+    border-right: 0.5px solid lightcoral;
+    border-left: 0.5px solid lightcoral;
+    border-top: 0.5px solid lightcoral;
+}

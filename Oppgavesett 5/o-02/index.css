@@ -1,0 +1,33 @@
+div {
+    background-color: lightsteelblue;
+    display: inline-block;
+    text-align: center;
+    padding: 5rem;
+}
+
+#headline {
+    font-size: 2rem;
+}
+
+#inp1 {
+    width: 5rem;
+    padding: 0.3rem;
+    border-radius: 5px;
+}
+
+#btn {
+    background-color: orange;
+    padding: 0.3rem;
+    border-radius: 5px;
+}
+#btn2 {
+    background-color: lightgoldenrodyellow;
+    padding: 0.3rem;
+    border-radius: 5px;
+}
+
+#bank {
+    background-color: mediumaquamarine;
+    padding: 0.5rem;
+    border-radius: 5px;
+}

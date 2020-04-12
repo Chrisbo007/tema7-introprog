@@ -1,0 +1,27 @@
+#meny {
+    padding: 0.2rem;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+}
+
+#meny a {
+    text-decoration: none;
+    padding: 1rem;
+    color: brown;
+    border-bottom: 1px solid black;
+
+}
+
+h1, p {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+ul {
+    display: inline-block; 
+    text-align: left; 
+}
