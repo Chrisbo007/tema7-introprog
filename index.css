@@ -8,12 +8,12 @@
 #meny a {
     text-decoration: none;
     padding: 1rem;
-    color: deeppink;
+    color: crimson;
     border-bottom: 1px solid black;
 
 }
 
-h1, h2, p {
+h1, p {
     text-align: center;
 }
 
@@ -25,4 +25,3 @@ ul {
     display: inline-block; 
     text-align: left; 
 }
-
